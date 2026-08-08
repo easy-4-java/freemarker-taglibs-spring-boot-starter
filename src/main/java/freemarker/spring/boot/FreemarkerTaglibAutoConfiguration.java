@@ -2,7 +2,7 @@ package freemarker.spring.boot;
 
 import java.util.List;
 
-import javax.annotation.PostConstruct;
+import jakarta.annotation.PostConstruct;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
@@ -18,7 +18,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerConfigurer;
  * 
  * @className	： FreemarkerTaglibAutoConfiguration
  * @description	： TODO(描述这个类的作用)
- * @author 		： <a href="https://github.com/hiwepy">hiwepy</a>
+ * @author [@Loong Wan](https://github.com/loong10k)
  * @date		： 2018年3月8日 上午10:34:09
  * @version 	V1.0
  */
